@@ -1,0 +1,9 @@
+*** Curso introdução ao ReactJS - DIO ***
+
+Local do curso na Dio.
+https://web.dio.me/course/introducao-ao-reactjs/learning/01818f0a-18b2-4023-a555-57ebefba56af?back=/track/impulso-javascript-evolution&tab=undefined&moduleId=undefined
+
+Criando o projeto no ReactJS
+npm init --y
+
+npm install  --save react@16.8.6 react-dom@16.8.6 react-scripts@3.0.1
